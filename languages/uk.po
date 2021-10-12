@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: uk\n"
+"X-Generator: Poedit 2.0\n"
+
+#. Text in echo
+#: portfolio.php:21 single-catalog.php:21 single-service.php:20
+#: subcategory-catalog.php:16 thnx.php:19 404.php:12 about.php:21
+#: category-catalog.php:16 category-service.php:16 contacts.php:21
+msgid "/"
+msgstr "/uk/"
+
+#. Text in echo
+#: single-catalog.php:22 subcategory-catalog.php:17
+msgid "/catalog/"
+msgstr "/uk/catalog/"
+
+#. Text in echo
+#: index.php:61 about.php:44
+msgid "/nashi-raboty"
+msgstr "/uk/nashi-raboty"
+
+#. Text in echo
+#: 404.php:11
+msgid "<span>404</span>Страница не найдена..."
+msgstr "<span>404</span>Сторінку не знайдено..."
+
+#. Text in echo
+#: footer.php:5 footer.php:47
+msgid "contacts.php"
+msgstr "contacts-uk.php"
+
+#. Text in echo
+#: index.php:61 about.php:44
+msgid "Все работы"
+msgstr "Всi роботи"
+
+#. Text in echo
+#: portfolio.php:21 single-catalog.php:21 single-service.php:20
+#: subcategory-catalog.php:16 about.php:21 category-catalog.php:16
+#: category-service.php:16 contacts.php:21
+msgid "Главная"
+msgstr "Головна"
+
+#. Text in echo
+#: footer.php:4 footer.php:46
+msgid "Есть вопросы?"
+msgstr "Є питання?"
+
+#. Text in echo
+#: footer.php:7 footer.php:49
+msgid "Имя"
+msgstr "Iм'я"
+
+#. Text in echo
+#: index.php:55 about.php:38
+msgid "Индивидуальные работы"
+msgstr "Індивідуальні роботи"
+
+#. Text in echo
+#: single-catalog.php:22 subcategory-catalog.php:17 footer.php:19
+msgid "Каталоги"
+msgstr "Каталоги"
+
+#. Text in echo
+#: index.php:19
+msgid "Каталоги ювелирных изделий и украшений"
+msgstr "Каталоги ювелірних виробів і прикрас"
+
+#. Text in echo
+#: footer.php:15
+msgid "Меню"
+msgstr "Меню"
+
+#. Text in echo
+#: contacts.php:62 footer.php:30
+msgid "Мы в соц. сетях"
+msgstr "Ми в соцмережах"
+
+#. Text in echo
+#: thnx.php:19 404.php:12
+msgid "На главную"
+msgstr "На головну"
+
+#. Text in echo
+#: index.php:39
+msgid "Наши преимущества"
+msgstr "Наші переваги"
+
+#. Text in echo
+#: footer.php:10 footer.php:52
+msgid "Отправить"
+msgstr "Відправити"
+
+#. Text in echo
+#: footer.php:39
+msgid "Разработка"
+msgstr "Розробка"
+
+#. Text in echo
+#: footer.php:9 footer.php:51
+msgid "Сообщение..."
+msgstr "Повідомлення..."
+
+#. Text in echo
+#: footer.php:8 footer.php:50
+msgid "Телефон"
+msgstr "Телефон"
+
+#. Text in echo
+#: footer.php:23
+msgid "Услуги"
+msgstr "Послуги"
